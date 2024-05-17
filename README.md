@@ -1,4 +1,4 @@
-# Hand Gesture Recognition using Mediapipe and Random Forest
+# Sign Language Recognition using Mediapipe and Random Forest
 
 This project implements a hand gesture recognition system using Mediapipe for hand landmark detection and a Random Forest classifier for gesture classification. The project includes scripts for data collection, dataset creation, model training, and real-time gesture recognition.
 
@@ -90,16 +90,14 @@ This project provides a framework for recognizing hand gestures using a webcam. 
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure your code follows the project's coding standards and is well-documented.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 
 For any questions or feedback, please contact:
 
-- **Your Name**
-- **Your Email**
-- **Your GitHub Profile**
+- **Shaswat Sinha**
+- **Officialshaswat2021@gmail.com**
+  
 
 Thank you for checking out the Hand Gesture Recognition project!
